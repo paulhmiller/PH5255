@@ -80,8 +80,3 @@ library(hgu133aprobe)
 head(hgu133aprobe)
 nrow(hgu133aprobe[hgu133aprobe$Probe.Set.Name=="206269_at",])
 
-
-# Microarray Technology
-#======================
-
-
